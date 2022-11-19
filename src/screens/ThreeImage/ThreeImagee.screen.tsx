@@ -10,9 +10,8 @@ import {
   MeshStandardMaterial,
   Mesh,
   BoxGeometry,
-  Vector3,
 } from 'three';
-import {Alert, View} from 'react-native';
+import {View} from 'react-native';
 
 interface CanvasProps {
   width: number;
